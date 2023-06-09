@@ -1,0 +1,35 @@
+{
+    "Movimientos":[
+
+    {
+      "id": 1,
+      "description": "Pago de factura de servicios publicos",
+      "price": 50000,
+      "type": "gasto"
+    },
+    {
+      "id": 2,
+      "description": "Salario",
+      "price": 4500000,
+      "type": "ingreso"
+    },
+    {
+      "id": 3,
+      "description": "Compra de libros",
+      "price": 150000,
+      "type": "gasto"
+    },
+    {
+        "id": 4,
+        "description": "Compra de bolso",
+        "price": 250000,
+        "type": "gasto"
+      },
+      {
+        "id": 5,
+        "description": "Pago de factura Administracion",
+        "price": 300000,
+        "type": "gasto"
+      }
+  ]
+}
